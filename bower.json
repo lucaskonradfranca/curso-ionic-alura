@@ -1,0 +1,23 @@
+{
+  "name": "ionic-hello-world",
+  "description": "aluraCar: An Ionic project",
+  "main": "",
+  "authors": [
+    "Ionic Framework"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "platform.js": "platform#^1.3.5"
+  },
+  "devDependencies": {
+    "platform.js": "platform#^1.3.5"
+  }
+}
